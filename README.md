@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C#,Docker**
 
-- 👯 I’m looking to collaborate on **E-Commerce**HH
+- 👯 I’m looking to collaborate on **E-Commerce**
 
 - 📫 How to reach me **emin.imanverdievv@gmail.com**
 
