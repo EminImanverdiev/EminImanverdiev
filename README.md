@@ -6,14 +6,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **IT Brains Academy**
+ - 🔭 I’m currently working on **IT Brains Academy**
 
-- 🌱 I’m currently learning **C#,Docker**
+ - 🌱 I’m currently learning **C#,Docker**
 
-- 👯 I’m looking to collaborate on **E-Commerce**
+ - 👯 I’m looking to collaborate on **E-Commerce**
 
-- 📫 How to reach me **emin.imanverdievv@gmail.com**
-
+ - 📫 How to reach me **emin.imanverdievv@gmail.com**
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/imanverdiev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/emin-imanverdiyev-05097825b/" height="30" width="40" /></a>
