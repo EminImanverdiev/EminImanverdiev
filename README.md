@@ -8,7 +8,7 @@
 
  - 🔭 I’m currently working on **IT Brains Academy**
 
- - 🌱 I’m currently learning **C#,Docker**
+ - 🌱 I’m currently learning **C#,Docker,Best practices and clean coding.**
 
  - 👯 I’m looking to collaborate on **E-Commerce**
 
