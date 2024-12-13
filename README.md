@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer</h3>
 <img width="300px" height="200px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imanverdiev&label=Profile%20views&color=0e75b6&style=flat" alt="imanverdiev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EminImanverdiev&label=Profile%20views&color=0e75b6&style=flat" alt="EminImanverdiev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
