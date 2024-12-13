@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
- - 🔭 I’m currently working on **IT Brains Academy**
+ - 🔭 I’m currently working on **Buta Group Azerbaijan**
 
  - 🌱 I’m currently learning **C#,Docker,Best practices and clean coding.**
 
