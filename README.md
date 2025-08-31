@@ -10,7 +10,7 @@
 
  - 🌱 I’m currently learning **C#,Docker,Best practices and clean coding.**
 
- - 👯 I’m looking to collaborate on **E-Commerce,CRM system and MVC project**
+ - 👯 I’m looking to collaborate on **E-Commerce,CRM system and API project**
 
  - 📫 How to reach me **emin.imanverdievv@gmail.com**
  
